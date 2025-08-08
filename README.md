@@ -54,7 +54,7 @@ sudo nano /etc/hosts
 
 ## Updating
 
-- This blocklist was generated on **August 8, 2025**.  
+- This blocklist was made in **August 8, 2025**.  
 - For best protection, update regularly by regenerating from trusted sources.
 
 ---
